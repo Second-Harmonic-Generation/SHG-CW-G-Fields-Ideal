@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Temperature increase effects on a double-pass cavity type II second-harmonic generation: a model for depleted Gaussian continuous waves"
+version: 1.0.0
+doi: 10.1364/AO.54.000869
+url: "https://doi.org/10.1364/AO.54.000869"
+date-released: 2014-12-23
+repository-code: "https://github.com/Second-Harmonic-Generation/SHG-CW-G-Fields-Ideal"
+abstract: >
+  We model continuous-wave type-II SHG in a double-pass cavity with Gaussian beams,
+  solving six coupled depleted-wave equations and incorporating thermally induced
+  phase mismatch from absorption-driven temperature rise in the nonlinear crystal.
+  A finite-difference FORTRAN implementation quantifies efficiency versus power,
+  spot size, crystal length, and ΔT, showing sharp efficiency losses even for small
+  temperature increases and good agreement with prior experimental data.
+authors:
+  - family-names: "Sabaeian"
+    given-names: "Mohammad"
+  - family-names: "Jalil-Abadi"
+    given-names: "Fatemeh Sedaghat"
+  - family-names: "Rezaee"
+    given-names: "Mostafa Mohammad"
+  - family-names: "Motazedian"
+    given-names: "Alireza"
+  - family-names: "Shahzadeh"
+    given-names: "Mohammadreza"
+license: "MIT"
+keywords:
+  - "second harmonic generation"
+  - "type II"
+  - "double-pass cavity"
+  - "Gaussian beams"
+  - "thermal effects"
+  - "phase mismatch"
+  - "finite difference method"
+  - "KTP"
+  - "FORTRAN"

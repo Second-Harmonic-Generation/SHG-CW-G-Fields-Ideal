@@ -62,8 +62,6 @@ Article title:
 
 This repository contains the **Toolkit for Modeling of Second Harmonic Electric-Field Distribution in KTP Crystal: Continuous-Wave Gaussian Second Harmonic Generation**, an open-source toolkit for investigating the effect of temperature increase on the efficiency of second-harmonic generation (SHG) processes.
 
-### Toolkit Overview
-
 The toolkit implements a comprehensive depleted wave model that describes the continuous-wave SHG process with fundamental Gaussian waves in a double-pass cavity type II configuration. The model solves six coupled equations to generate the second harmonic of a Gaussian fundamental wave, accounting for fundamental beam depletion rather than using the conventional non-depleted assumption.
 
 The toolkit models the critical effect of temperature increase in the nonlinear crystal due to optical absorption by incorporating mismatched phase arising from changes in refractive indices into the coupled equations. This approach enables the investigation of how SHG efficiency decreases when the crystal temperature increases by 5, 10, and 15 K, revealing dramatic reductions in efficiency due to small temperature changes.
